@@ -1,12 +1,11 @@
 ### Hi there, I'm Ali Zafar! 👋
-#### 🚀 SaaS Architect | Python (Django) & React Specialist
+#### 🚀 SaaS Architect | FastAPI, Node.js & AI Specialist
 
-I build scalable backends and interactive frontends for startups and enterprises. I don't just write code; I engineer solutions that handle high traffic and complex business logic.
+I build production-grade backend systems and scalable SaaS architectures. I specialize in stabilizing high-traffic APIs, integrating LLMs, and handling data-heavy workflows.
 
-- 🔭 I’m currently working on: **Enterprise SaaS Architectures & ERP Integrations**
-- 🤝 I’m looking to collaborate on: **Complex Django/Python Backend Projects**
-- 💬 Ask me about: **Python, Django, React, Next.js, Docker, AWS**
-- 📫 Reach me for work: **https://upwork.com/freelancers/syedaliz?mp_source=share**
+- 🔭 I’m currently working on: **Enterprise SaaS Architectures & Event-Driven Systems**
+- 🤝 I’m looking to collaborate on: **FastAPI Microservices & AI Agent Integrations**
+- 💬 Ask me about: **FastAPI, Node.js, Kafka, LLMs, Docker, AWS**_source=share**
 
 ---
 
@@ -49,6 +48,6 @@ I build scalable backends and interactive frontends for startups and enterprises
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=smazydev&show_icons=true&theme=radical&hide_border=true" alt="smazydev github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smazydev&layout=compact&theme=radical&hide_border=true" alt="smazydev top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smazydev&show_icons=true&theme=radical&hide_border=true" alt="smazydev stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smazydev&layout=compact&theme=radical&hide_border=true" alt="smazydev languages" />
 </p>
