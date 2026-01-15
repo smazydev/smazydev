@@ -6,7 +6,7 @@ I build production-grade backend systems and scalable SaaS architectures. I spec
 - 🔭 I’m currently working on: **Enterprise SaaS Architectures & Event-Driven Systems**
 - 🤝 I’m looking to collaborate on: **FastAPI Microservices & AI Agent Integrations**
 - 💬 Ask me about: **FastAPI, Node.js, Kafka, LLMs, Docker, AWS**
-📫 Reach me for work: **https://www.upwork.com/freelancers/syedaliz?mp_source=share**
+- 📫 Reach me for work: **https://www.upwork.com/freelancers/syedaliz?mp_source=share**
 ---
 
 ### 🛠️ Technical stack
