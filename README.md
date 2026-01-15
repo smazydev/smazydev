@@ -5,8 +5,8 @@ I build production-grade backend systems and scalable SaaS architectures. I spec
 
 - 🔭 I’m currently working on: **Enterprise SaaS Architectures & Event-Driven Systems**
 - 🤝 I’m looking to collaborate on: **FastAPI Microservices & AI Agent Integrations**
-- 💬 Ask me about: **FastAPI, Node.js, Kafka, LLMs, Docker, AWS**_source=share**
-
+- 💬 Ask me about: **FastAPI, Node.js, Kafka, LLMs, Docker, AWS**
+📫 Reach me for work: **https://www.upwork.com/freelancers/syedaliz?mp_source=share**
 ---
 
 ### 🛠️ Technical stack
@@ -46,8 +46,3 @@ I build production-grade backend systems and scalable SaaS architectures. I spec
   </a>
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=smazydev&show_icons=true&theme=radical&hide_border=true" alt="smazydev stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smazydev&layout=compact&theme=radical&hide_border=true" alt="smazydev languages" />
-</p>
